@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/org.compphys.QMLMathGL">
+        <file>imports/QMLMathGL/qmldir</file>
+    </qresource>
+</RCC>
